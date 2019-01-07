@@ -1,4 +1,10 @@
-## Структура проектов
+## Информация
+
+- [FURRY](furry)
+- [SysAdmins](sysadmins)
+- [Webmasters](webmasters)
+
+## Структура сети
 
 - [METADATA Foundation](https://metadata.foundation/) - центральный фонд поддержки открытых проектов. Платформа управления.
   - [FURRY Foundation](https://furry.foundation/) - фонд поддержки сообщества FURRY.
