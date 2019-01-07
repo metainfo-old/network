@@ -1,4 +1,13 @@
 title: "Сеть проектов"
+description: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-sitemap
+
 author:
   name: "Kitsune Solar"
   email: "kitsune.solar@gmail.com"
