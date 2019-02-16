@@ -10,7 +10,7 @@
 
 - [METADATA Foundation](https://metadata.foundation/) - центральный фонд поддержки открытых проектов. Платформа управления.
   - [FURRY Foundation](https://furry.foundation/) - фонд поддержки сообщества FURRY.
-    - [FURRY Pub](https://furry.pub/) - форум сообщества FURRY. "Таверна" для усталых путников.
+    - [FURRY Community](https://furry.community/) - форум сообщества FURRY. "Таверна" для усталых путников.
       - [Чат](https://chat.furry.pub/)
     - [FURRY University](https://furry.university/) - университет сообщества FURRY. Здесь представлены различные документы, обучающие статьи и справочные материалы. Имеется библиотека.
       - [Библиотека](https://library.furry.university/)
