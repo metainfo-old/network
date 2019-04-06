@@ -10,8 +10,8 @@
 
 - [METADATA Foundation](https://metadata.foundation/) - центральный фонд поддержки открытых проектов. Платформа управления.
   - [FURRY Foundation](https://furry.foundation/) - фонд поддержки сообщества FURRY.
-    - [FURRY Community](https://furry.community/) - форум сообщества FURRY. "Таверна" для усталых путников.
-      - [Чат](https://chat.furry.pub/)
+    - [FURRY Community](https://furry.community/) - форум сообщества FURRY.
+    - [Чат](https://furry.chat/) - чат сообщества FURRY.
     - [FURRY University](https://furry.university/) - университет сообщества FURRY. Здесь представлены различные документы, обучающие статьи и справочные материалы. Имеется библиотека.
       - [Библиотека](https://library.furry.university/)
       - [События](https://event.furry.university/)
@@ -34,7 +34,7 @@
       - [WordPress](https://wordpress.webmasters.wiki/) - документация по WordPress.
       - [XenForo](https://xenforo.webmasters.wiki/) - документация по XenForo.
   - [Radio WTF](https://radio.wtf/) - online-радиостанция.
-    - [Furry](https://furry.radio.wtf/)
+    - [Furry](https://furry.radio.wtf/) - радио сообщества FURRY.
     - [Podcasts](https://podcast.radio.wtf/)
 - [METADATA Cloud](https://metadata.cloud/) - облачная платформа. Содержит общие файлы, документы и другую различную информацию, предназначенную для общего пользования на всех информационных проектах.
   - [Storage](https://storage.metadata.cloud/) - общее хранилище медиа-материалов.
